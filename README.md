@@ -33,7 +33,7 @@ Install the Python dependencies:
 pip install -r requirements.txt
 ```
 
-> ⚠️ The original results were produced in a now-unavailable research
+> The original results were produced in a now-unavailable research
 > environment. See `ENVIRONMENT.md` for details and reproducibility notes.
 
 ## Quickstart
